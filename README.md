@@ -26,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayfield5000&show_icons=true&locale=en" alt="rayfield5000" /></p>
 
+<!-- <p>Copyright images and gifs used are copyrighted and used as creative works for no profit and javascript banner was made by https://dri.es/colophon#license no changes were made.</p> -->
