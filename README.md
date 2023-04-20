@@ -3,7 +3,8 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Rayfield Coleman</h1>
-<h3 align="center">A passionate web developer from Philadelphia</h3>
+<h3 align="center">A passionate web developer from Philadelphia. </h3>
+<h3 align="center">I am a cybersecurity student learning to expand my skills.</h3>
 <img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt"person coding at a desk">
 
 - 🔭 I’m currently working on **landing page**
