@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **landing page**
 
-- 🌱 I’m currently learning **React, Python, Cybersecurity**
+- 🌱 I’m currently learning **React, Python, Ruby, Cybersecurity**
 
 - 📫 How to reach me **rayfield5000@gmail.com**
 
